@@ -3,8 +3,11 @@
 Bienvenido !! Soy Mariana, una joven apasionada por servir a los demas y me encanta hacerlo usando las tecnologias, desarrollando páginas web que transporten a las personas a un sentir específico, proporcionarles una experiencia digital satisfactoria y puedan sentirse acompañadas por el 
 servicio.
 
+### Red Social 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-magallanes-lomeli-aa3414260/) 
 
-### Herramientas
+
+### HerramientasTec
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
